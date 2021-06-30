@@ -1,0 +1,3 @@
+[submodule "swccg-card-json-separate-cards"]
+	path = swccg-card-json-separate-cards
+	url = https://github.com/drudger/swccg-card-json-separate-cards.git
