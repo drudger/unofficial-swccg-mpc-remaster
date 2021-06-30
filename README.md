@@ -12,7 +12,7 @@ Resources for automating card creation of SWCCG in GIMP.
 You will need to clean up the Lore text and possibly adjust spacing in the Game text. 
 
 ### Limitations
-Currently, this only works for Characters: Alien, Battle-Droid, Droid, Imperial, Rebel.
+Currently, this only works for Characters (Alien, Battle-Droid, Droid, Imperial, Rebel), Effects, and Non-Combo Interrupts.
 
 ### Tested on 
 * Windows 10 
